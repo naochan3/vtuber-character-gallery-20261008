@@ -1,0 +1,14 @@
+{
+  "name": "vtuber-character-gallery",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "deploy": "wrangler pages deploy site --project-name vtuber-character-gallery-20261008 --branch main"
+  },
+  "devDependencies": {
+    "wrangler": "4.129.0"
+  }
+}
