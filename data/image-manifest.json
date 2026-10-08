@@ -2628,6 +2628,18 @@
     "bytes": 2297647
   },
   {
+    "id": 469,
+    "file": "assets/candidate-469-4c3657472970.png",
+    "sha256": "4C365747297061036433DFB236E168843FA45A5AD280B05472D95184C5DC25F8",
+    "bytes": 2128166
+  },
+  {
+    "id": 470,
+    "file": "assets/candidate-470-abc6454baef7.png",
+    "sha256": "ABC6454BAEF73B6B04CF770686E3A38F634A7F7D2D233587BABE488C1BBAEC53",
+    "bytes": 2068494
+  },
+  {
     "id": 321,
     "file": "assets/candidate-321-83e902bc69ab.png",
     "sha256": "83E902BC69AB3B71B48CD6E20CD5C87B246779ED56BAD9B9BEC69A7E52278900",
