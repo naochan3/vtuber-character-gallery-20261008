@@ -2820,6 +2820,66 @@
     "bytes": 1951120
   },
   {
+    "id": 505,
+    "file": "assets/candidate-505-8f1d6b88c63d.png",
+    "sha256": "8F1D6B88C63D444F4F9864562A6EAEF96B440B62002AE0280FB01B6522C96A4F",
+    "bytes": 1894418
+  },
+  {
+    "id": 506,
+    "file": "assets/candidate-506-1af08496fb2b.png",
+    "sha256": "1AF08496FB2BF04F28FD510BE3554DF40845536702D722CE1EE3079843CBE18D",
+    "bytes": 2210249
+  },
+  {
+    "id": 507,
+    "file": "assets/candidate-507-3a20c7fc8da8.png",
+    "sha256": "3A20C7FC8DA8E1CC66B431D6AED59B80ABB119216ED4320898C55D17568D4EBA",
+    "bytes": 2284397
+  },
+  {
+    "id": 508,
+    "file": "assets/candidate-508-c00071304d22.png",
+    "sha256": "C00071304D2292376CF1FEDB546F939D0199916290ED55679B6FA17D01CD0840",
+    "bytes": 2208574
+  },
+  {
+    "id": 509,
+    "file": "assets/candidate-509-9124a4f3737a.png",
+    "sha256": "9124A4F3737A735826255359994F9F0ECEB0E9D4F5A6AC32D14A486B2E2B1342",
+    "bytes": 1860902
+  },
+  {
+    "id": 510,
+    "file": "assets/candidate-510-cae3ddb5b1ca.png",
+    "sha256": "CAE3DDB5B1CA91861B0E79E62B1A8471B3A385089AB31E5958B5A188E64A5593",
+    "bytes": 1998071
+  },
+  {
+    "id": 511,
+    "file": "assets/candidate-511-2e4aec6f53c8.png",
+    "sha256": "2E4AEC6F53C860A1396FF02C028A375B84D14D189481F0CDE248AAA06032BAE9",
+    "bytes": 1837289
+  },
+  {
+    "id": 512,
+    "file": "assets/candidate-512-cff7566e39b3.png",
+    "sha256": "CFF7566E39B3DCAF3213EA6653AC99074BAFD46CD1FDB2397C0084968A4138BF",
+    "bytes": 1889480
+  },
+  {
+    "id": 513,
+    "file": "assets/candidate-513-03fc3492824e.png",
+    "sha256": "03FC3492824E24CC609C255AD5578F1B177F7EA93BADE54B317AE32A5EB60A65",
+    "bytes": 2164203
+  },
+  {
+    "id": 514,
+    "file": "assets/candidate-514-7596bb4859c9.png",
+    "sha256": "7596BB4859C9D96B9933D463958DE61EBF40F0685153399FCBFBDF23DE99C347",
+    "bytes": 2025057
+  },
+  {
     "id": 321,
     "file": "assets/candidate-321-83e902bc69ab.png",
     "sha256": "83E902BC69AB3B71B48CD6E20CD5C87B246779ED56BAD9B9BEC69A7E52278900",
@@ -2968,5 +3028,29 @@
     "file": "assets/candidate-345-2051719d3a94.png",
     "sha256": "2051719D3A94B86B598FA242A5E2B9444ABD84DE9EB6480AC427118A7CA19921",
     "bytes": 2153875
+  },
+  {
+    "id": 515,
+    "file": "assets/candidate-515-46153cab363b.png",
+    "sha256": "46153CAB363BC67C5BFDB706B81FD16096355A15457C4C068FBB8D70B482DFF7",
+    "bytes": 1946222
+  },
+  {
+    "id": 516,
+    "file": "assets/candidate-516-e55a1659895d.png",
+    "sha256": "E55A1659895D10A4D38D9429F26E3732EC0C464D299BA0D2E8B198FD341D29CE",
+    "bytes": 1906883
+  },
+  {
+    "id": 517,
+    "file": "assets/candidate-517-8ea804727dfa.png",
+    "sha256": "8EA804727DFADEBDB6601C0E97257E06226FE052DAE1FBBF44DB73D6E472FA5D",
+    "bytes": 1834502
+  },
+  {
+    "id": 518,
+    "file": "assets/candidate-518-57f763d8fa8e.png",
+    "sha256": "57F763D8FA8E6DAA5A02E9CA439E209EA2BE089555F7D816F22CEFAA8DE7933F",
+    "bytes": 1810569
   }
 ]
